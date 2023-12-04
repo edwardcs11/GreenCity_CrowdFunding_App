@@ -1,0 +1,45 @@
+/* src/style/Navbar.css */
+nav {
+    background-color: #33408F;
+    color: white;
+    padding: 10px;
+
+}
+
+/* Atau jika Anda ingin mengubah warna teks navbar */
+h1 {
+    color: white; /* Gunakan kode warna teks yang kontras dengan latar belakang */
+    font-size: xx-large;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+}
+
+.nav-links li {
+    margin-right: 20px; /* Ruang antar elemen menu */
+
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white; /* Warna teks menu */
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.nav-links a:hover {
+    text-decoration: underline; /* Efek hover */
+}

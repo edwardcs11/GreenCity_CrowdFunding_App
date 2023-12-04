@@ -1,0 +1,69 @@
+/* src/components/style/CampaignForm.css */
+
+/* Container styling */
+.campaign-form-container {
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #3498db;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-container {
+    background-color: dimgrey; /* Ganti dengan warna abu-abu yang diinginkan */
+    padding: 20px;
+    border-radius: 8px; /* Membuat ujung formulir menjadi agak melengkung */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Menambahkan efek bayangan agar formulir terlihat lebih menonjol */
+}
+
+
+/* Heading styling */
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #3498db;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Label styling */
+label {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+/* Input styling */
+input,
+textarea {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Button styling */
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #2980b9;
+}
+
+#campaign-form {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    opacity: 0.9;
+}
