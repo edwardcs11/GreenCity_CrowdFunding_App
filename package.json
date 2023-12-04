@@ -1,5 +1,5 @@
 {
-  "homepage": "http://GreatEdu-SIB-Cycle-6.github.io/blockchain-toriq-kelompok-4-greencity-impact-initiative",
+  "homepage": "http://edwardcs11.github.io/GreenCity_CrowdFunding_App",
   "name": "gausah_nt_nt",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
