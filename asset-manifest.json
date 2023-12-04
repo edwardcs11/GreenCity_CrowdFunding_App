@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GreenCity_CrowdFunding_App/static/css/main.8ceb1b1d.css",
+    "main.js": "/GreenCity_CrowdFunding_App/static/js/main.a3eb90ae.js",
+    "static/js/787.9eae0dc6.chunk.js": "/GreenCity_CrowdFunding_App/static/js/787.9eae0dc6.chunk.js",
+    "static/media/pxfuel.jpg": "/GreenCity_CrowdFunding_App/static/media/pxfuel.b15c6353cecdc2ef1858.jpg",
+    "index.html": "/GreenCity_CrowdFunding_App/index.html",
+    "main.8ceb1b1d.css.map": "/GreenCity_CrowdFunding_App/static/css/main.8ceb1b1d.css.map",
+    "main.a3eb90ae.js.map": "/GreenCity_CrowdFunding_App/static/js/main.a3eb90ae.js.map",
+    "787.9eae0dc6.chunk.js.map": "/GreenCity_CrowdFunding_App/static/js/787.9eae0dc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ceb1b1d.css",
+    "static/js/main.a3eb90ae.js"
+  ]
+}
